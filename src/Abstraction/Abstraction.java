@@ -29,7 +29,7 @@ public class Abstraction {
         void calculate (int a, int b)
         {
             int z = a * b;
-            System.out.println("Muktiply:" +z);
+            System.out.println("Multiply:" +z);
         }
     }
     // main class

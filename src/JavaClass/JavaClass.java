@@ -10,6 +10,7 @@ public class JavaClass {
 
     // 2. Student.java
     public class student extends person {
+        public static Object student;
         int rollNo;
     }
 

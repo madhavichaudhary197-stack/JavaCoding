@@ -10,7 +10,9 @@ public class Objects {
 
     class javaprogram{
         javaprogram java = new javaprogram();
+
         javaprogram java2 = new javaprogram();
+
         javaprogram java3 = new javaprogram();
     }
 }
